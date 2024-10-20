@@ -4,3 +4,5 @@ Data analysis and visualizations for the FORMULA 1 PIRELLI UNITED STATES GRAND P
 Pole Diff analyzes the 2024 USA GP Qualifying session, calculating the time gaps and corresponding distances from pole position for selected drivers, and presents the results in two horizontal bar charts: one showing time gaps (in seconds) and the other showing distances (in meters).
 
 Q3 times filters and visualizes lap times for Q3 during the 2024 USA GP Qualifying session, focusing on six selected drivers, and generates a bar chart where each driver's lap times are color-coded for comparison.
+
+Sectors Diff extracts the fastest sector times for selected top drivers (Norris, Verstappen, Sainz, Leclerc, Piastri, Russell) during the qualifying session. It visualizes these times in a grouped bar chart, where each bar represents a driver's fastest time for each sector.
